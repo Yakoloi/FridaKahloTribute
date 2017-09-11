@@ -1,0 +1,49 @@
+body {
+  background: white;
+}
+.title {
+  font-family: 'Signika', sans-serif;
+  margin-bottom: 3%;
+  font-size: 60pt;
+}
+.caption {
+  font-size: 12pt;
+}
+.top {
+  background-image: url("https://farm5.staticflickr.com/4399/36737801396_b071132e41_m.jpg");
+  background-repeat: repeat;
+}
+
+h5 {
+  font-family: 'Quicksand', sans-serif;
+}
+.painting {
+  margin-top: 5%;
+}
+h6 {
+  margin-top: 1%;
+  font-size: 80%;
+}
+p {
+  font-size: 16pt;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.shorten {
+  height: 99%;
+}
+h2 {
+  font-size: 95%;
+}
+
+footer {
+  background-image: url("https://farm5.staticflickr.com/4399/36737801396_b071132e41_m.jpg");
+  background-repeat: repeat;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 90%;
+}
+.footer{
+  font-size: 90%;
+  margin-top: 1%;
+}
